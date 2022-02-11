@@ -17,4 +17,4 @@ ETE is my 2-year university program where we routinely discuss problems and solu
 
 - **Word Count Distributions Per Semester** - we see more variance
 
-<img src="imgs/histograms.png" width="60%">
+<img src="imgs/histograms.png" width="80%">
