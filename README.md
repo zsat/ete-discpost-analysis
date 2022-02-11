@@ -18,3 +18,17 @@ ETE is my 2-year university program where we routinely discuss problems and solu
 - **Word Count Distributions Per Semester** - we see more variance
 
 <img src="imgs/histograms.png" width="80%">
+
+- **Lexical Readability**
+  - thin
+  - thing 
+
+<img src="imgs/readability.png" width="70%">
+
+- **Lexical Richness**
+  - thing1
+  - thing 2
+
+<img src="imgs/richness.png" width="70%">
+
+End
