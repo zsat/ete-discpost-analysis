@@ -9,6 +9,12 @@ ETE is my 2-year university program where we routinely discuss problems and solu
 - Our sentence/word length (lexical readability) stays relatively the same - perhaps a good thing
 - (In my opinion) it seems like we're writing with more/better vocab, but not making our sentences overly complex, rather we're keeping them accessible to the average reader (which in my opinion is the best scenario).
 
-**Mean + Median word counts per semester** - definitely increasing
+---
 
-<img src="imgs/meanmed.png" width="40%">
+- **Mean + Median word counts per semester** - definitely increasing
+
+<img src="imgs/meanmed.png" width="60%">
+
+- **Word Count Distributions Per Semester** - we see more variance
+
+<img src="imgs/histograms.png" width="60%">
