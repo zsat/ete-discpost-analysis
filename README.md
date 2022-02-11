@@ -10,4 +10,4 @@ ETE is my 2-year university program where we routinely discuss problems and solu
 - (In my opinion) it seems like we're writing with more/better vocab, but not making our sentences overly complex, rather we're keeping them accessible to the average reader (which in my opinion is the best scenario).
 
 **Mean + Median word counts per semester** - definitely increasing
-<img src="meanmed.png" width="40%">
+<img src="imgs/meanmed.png" width="40%">
