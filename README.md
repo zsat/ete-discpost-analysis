@@ -25,7 +25,7 @@ ETE is my 2-year university program where we routinely discuss problems and solu
 
 <img src="imgs/histograms.png" width="85%">
 
-Fun note: our 3-semester progression is almost indistinguishable from a 3-complexity-level progression of writings from children ages 7-16, collected by WeeBit. The histograms below at least shows us that the pattern we see in ETE is also seen with other people - so this isn't an isolated event. \[[Source](http://cs229.stanford.edu/proj2018/report/185.pdf)\]
+Fun note: our 3-semester progression is almost indistinguishable from a 3-complexity-level progression of writings from children ages 7-16, collected by WeeBit. The histograms below at least shows us that the pattern we see in ETE has also been seen with other people - might provide insight, but as of now I see it as just interesting. \[[Source](http://cs229.stanford.edu/proj2018/report/185.pdf)\]
 
 <img src="imgs/levels_hist.png" width="55%">
 
