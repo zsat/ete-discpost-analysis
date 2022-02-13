@@ -9,7 +9,7 @@ ETE is my 2-year university program where we routinely discuss problems and solu
 - We're writing (on avg.) 20% more each semester. Mean words jumped by 100 from ~240 to ~340 across 3 semesters. Median words jumped by ~80 in the same span, about a 36% increase
 - Our vocabulary gets better each semester (lexical richness, measured by MTLD) 
 - Our sentence/word length (lexical readability) stays relatively the same - perhaps a good thing
-- (In my opinion) it seems like we're writing with a slightly broader vocabulary, but not making our sentences overly complex, rather we're keeping them accessible to the average reader (which in my opinion is the best scenario).
+- (In my opinion) it seems like we're writing with a slightly broader vocabulary, but not making our sentences overly complex, rather we're keeping them accessible to the average reader (which in my opinion is one of the better possible scenarios).
 
 ### Looking at word count
 
