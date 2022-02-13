@@ -48,7 +48,7 @@ Fun note: our 3-semester progression is almost indistinguishable from a 3 comple
 
 <img src="imgs/richness.png" width="70%">
 
-(Note that the ranges)
+(Note that the ranges for these metrics aren't the mins/maxes, I just narrowed the window to make them more readable)
 
 ## Conclusion
 
