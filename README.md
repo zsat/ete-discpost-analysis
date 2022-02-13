@@ -6,20 +6,20 @@ ETE is my 2-year university program where we routinely discuss problems and solu
 
 ## Findings
 
-- We're writing (on avg.) 20% more each semester. Mean words jumped by 100 from ~240 to ~340 across 3 semesters. Median words jumped by ~80 in the same span
+- We're writing (on avg.) 20% more each semester. Mean words jumped by 100 from ~240 to ~340 across 3 semesters. Median words jumped by ~80 in the same span, about a 36% increase
 - Our vocabulary gets better each semester (lexical richness, measured by MTLD) 
 - Our sentence/word length (lexical readability) stays relatively the same - perhaps a good thing
-- (In my opinion) it seems like we're writing with more/better vocab, but not making our sentences overly complex, rather we're keeping them accessible to the average reader (which in my opinion is the best scenario).
+- (In my opinion) it seems like we're writing with a slightly broader vocabulary, but not making our sentences overly complex, rather we're keeping them accessible to the average reader (which in my opinion is the best scenario).
 
 ### Looking at word count
 
-- **Mean + Median word counts per semester**
+- **Mean + median word counts, per semester**
   - Certainly increasing every semester (about a 10-25% increase/sem)
   - Mean is biased up, so I'll use median as measure of centrality
 
 <img src="imgs/meanmed.png" width="65%">
 
-- **Word Count Distributions Per Semester**
+- **Word count distributions, per semester**
   - We see left skew that pulls the mean up
   - Variance in word count increases every semester - maybe we're finding more interest in the readings & thus write more.
 
@@ -48,6 +48,8 @@ Fun note: our 3-semester progression is almost indistinguishable from a 3 comple
 
 <img src="imgs/richness.png" width="70%">
 
+(Note that the ranges)
+
 ## Conclusion
 
-In my opinion) it seems like we're writing with more/better vocab, but not making our sentences overly complex, rather we're keeping them accessible to the average reader (which in my opinion is the best scenario).
+It seems like we're writing with a slightly boarder vocabulary, but not making our sentences overly complex, rather we're keeping them accessible to the average reader (which in my opinion is one of the better possible scenarios).
