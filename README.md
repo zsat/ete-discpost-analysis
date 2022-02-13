@@ -1,6 +1,6 @@
 # An Analysis of ETE Discussion Posts
 
-ETE is my 2-year university program where we routinely discuss problems and solutions around climate change, as well as the social and environmental impacts that climate change has had on the world at large. A way to keep us thinking about issues is through weekly discussion posts, in which we're presented a new or recurring topic (like regenerative agriculture, nuclear energy, sustainable cities, biomimicry, and more) accompanied with a few articles containing stories, facts, or opinions around those topics, and are asked to give our thoughts. This notebook/repo analyzes changes in word count and lexical richness + readability through the first 3 semesters. 
+ETE is my 2-year university program where we routinely discuss problems and solutions around climate change, as well as the social and environmental impacts that climate change has had on the world at large. A way to keep us thinking about issues is through weekly discussion posts, in which we're presented a new or recurring topic (like regenerative agriculture, nuclear energy, sustainable cities, biomimicry, and more) accompanied with a few articles containing stories, facts, or opinions around those topics, and are asked to give our thoughts. This notebook/repo analyzes changes in word count and lexical richness + readability through the first 3 semesters. [Here](https://github.com/zsat/ete-discpost-analysis/blob/main/ete_discpost_analysis.ipynb)'s the notebook and [here]()'s the html version.
 
 --- 
 
@@ -23,7 +23,7 @@ ETE is my 2-year university program where we routinely discuss problems and solu
   - We see left skew that pulls the mean up
   - Variance in word count increases every semester - maybe we're finding more interest in the readings & thus write more.
 
-<img src="imgs/histograms.png" width="85%">
+<img src="imgs/histograms.png" width="90%">
 
 Fun note: our 3-semester progression is almost indistinguishable from a 3-complexity-level progression of writings from children ages 7-16, collected by WeeBit. The histograms below at least shows us that the pattern we see in ETE has also been seen with other people - might provide insight, but as of now I see it as just interesting. \[[Source](http://cs229.stanford.edu/proj2018/report/185.pdf)\]
 
