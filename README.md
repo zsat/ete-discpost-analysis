@@ -51,6 +51,8 @@ Fun note: our 3-semester progression is almost indistinguishable from a 3-comple
 
 (Note that the ranges for these metrics aren't the mins/maxes, I just narrowed the window to make them more readable)
 
+---
+
 ## Conclusion
 
 It seems like we're writing with a slightly boarder vocabulary, but not making our sentences overly complex, rather we're keeping them accessible to the average reader (which in my opinion is one of the better possible scenarios).
