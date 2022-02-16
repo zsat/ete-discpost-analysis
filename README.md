@@ -14,14 +14,15 @@ ETE is my 2-year university program where we routinely discuss problems and solu
 ### Looking at word count
 
 - **Mean + median word counts, per semester**
-  - Certainly increasing every semester (about a 10-25% increase/sem)
-  - Mean is biased up, so I'll use median as measure of centrality
+  - Certainly increasing every semester (about a 10-25% increase/sem).
+  - Mean is biased up, so I'll use median as measure of centrality.
 
 <img src="imgs/meanmed.png" width="65%">
 
 - **Word count distributions, per semester**
-  - We see left skew that pulls the mean up
-  - Variance in word count increases every semester - maybe we're finding more interest in the readings & thus write more.
+  - We see left-leaning centrality every semester, it appears we tend to like to hit a minimum word count & higher counts become exponentially rarer.
+  - Variance in word count increases every semester - are we caring less about how much people before us wrote? Are we enjoying the content more? I can answer the first question with more code, but the second is better asked to students.
+  - Most of us didn't have prior coursework with sustainability, so it could be that we're becoming more drawn toward the topics as time goes on (this definitely is the case for me) and thus freely write more.
 
 <img src="imgs/histograms.png" width="90%">
 
@@ -36,7 +37,7 @@ Fun note: our 3-semester progression is almost indistinguishable from a 3-comple
 - **Lexical Readability**
   - Lexical readability mainly accounts for sentence and word length - tries to quantify how 'hard' or 'easy' a text is to read.  
   - Each metric outputs an American K-12 grade level of readability, so ~13 means a college freshman is easily able to read the texts.
-  - Text Standard is the most comprehensive measure out of the 4, so it appears we're not over complicating our texts over our 3 semesters.
+  - Text Standard is the most comprehensive measure out of the 4, so it appears we're not over complicating our texts over our 3 semesters - just staying consistent.
 
 <img src="imgs/readability.png" width="70%">
 
